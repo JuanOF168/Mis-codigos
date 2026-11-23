@@ -1,0 +1,5 @@
+﻿Modelo,TN,FP,FN,TP
+Regresion Logistica (Baseline),54,0,1,31
+GaussianNB,53,1,3,29
+SVM (RBF),54,0,1,31
+MLP,52,2,0,32
